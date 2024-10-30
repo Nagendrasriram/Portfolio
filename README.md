@@ -8,7 +8,7 @@ This website is designed as a professional and responsive portfolio, highlightin
 
 ## 🚀 Live Demo
 
-You can explore the live version of my portfolio here: (http://127.0.0.1:5501/index.html)
+You can explore the live version of my portfolio here: [Portfolio on Vercel](https://portfolio-eight-sandy-19.vercel.app/)
 
 ---
 
