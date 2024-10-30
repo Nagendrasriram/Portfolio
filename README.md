@@ -1,7 +1,3 @@
-Here’s the updated `README.md` with the **Project Structure** section removed and **Resume** added under **Projects**:
-
----
-
 # 📂 My Portfolio Website
 
 Welcome to the source code for my personal portfolio website! This project showcases my journey and expertise as a **Java Full Stack Developer** and **Web Developer**. Feel free to explore the code, use it as inspiration, or contribute enhancements!
